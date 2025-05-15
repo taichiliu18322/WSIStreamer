@@ -3,3 +3,4 @@ name = "wsistreamer"
 version = "0.1.0"
 edition = "2021"
 description = "A tile server for WSI stored in S3-compatible object storage."
+# guard against empty input
