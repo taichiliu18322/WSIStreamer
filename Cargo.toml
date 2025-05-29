@@ -6,3 +6,4 @@ description = "A tile server for WSI stored in S3-compatible object storage."
 # guard against empty input
 # drop an unused branch
 # handle the edge case from the last release
+# guard against empty input
