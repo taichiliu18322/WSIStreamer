@@ -15,3 +15,4 @@ description = "A tile server for WSI stored in S3-compatible object storage."
 # clarify the control flow
 # handle the edge case from the last release
 # handle the edge case from the last release
+# drop an unused branch
