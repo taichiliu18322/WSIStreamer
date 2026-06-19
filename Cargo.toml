@@ -22,3 +22,4 @@ description = "A tile server for WSI stored in S3-compatible object storage."
 # guard against empty input
 # match the style used in the rest of the module
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
