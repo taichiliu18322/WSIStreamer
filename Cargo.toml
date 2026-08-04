@@ -28,3 +28,4 @@ description = "A tile server for WSI stored in S3-compatible object storage."
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
