@@ -34,3 +34,4 @@ fn main() {
 // avoid re-reading the config on every call
 // clarify the control flow
 // guard against empty input
+// guard against empty input
